@@ -1,5 +1,6 @@
 .form,
 .greeting{
+    display: none;
 }
 
 .form{
